@@ -203,7 +203,7 @@ function SectionQuotes() {
     >
       <div className="container" style={{ textAlign: 'center' }}>
         <h1>What the internet is saying</h1>
-        <p>Developers are loving Kysely for it's simplicity and power.</p>
+        <p>Developers are loving Kysely for its simplicity and power.</p>
         <div
           style={{
             display: 'flex',
